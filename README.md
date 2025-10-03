@@ -130,7 +130,11 @@ Note-Taking app/
 - Try different search terms
 
 ## License
-This project is open source and available under the MIT License.
+MIT License
+
+Copyright (c) 2025 Mbengeni Muano
+
+See the `LICENSE` file for the full license text.
 
 ## Contributing
 Feel free to fork this project and submit pull requests for improvements or bug fixes.
